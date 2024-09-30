@@ -20,3 +20,4 @@ By practising in these labs, individuals can sharpen their skills in identifying
 - Vulnerable systems can sometimes introduce unwanted malware if not handled carefully. Running antivirus and malware scans can help keep your machine clean.
 - Pentesting skills improve with regular, responsible practice. Keep experimenting, but always with proper ethics and care.
 
+Inspired by: https://amanhardikar.com/
